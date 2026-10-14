@@ -100,19 +100,7 @@ flutter run
 
 To run in Chrome: `flutter run -d chrome`.
 
-## Screenshots
 
-| Event list | Event details |
-|---|---|
-| ![List]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\List.png") | ![Details]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\Details.png") |
-
-| Form with errors | Confirmation |
-|---|---|
-|[Confirmation]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\Confirmation.png") |
-
-## Testing
-
-See [TESTING.md]("D:\Acharya_Flutter_Cohort\task3_event_registration\TESTING .md") for the manual test cases and results.
 
 ## Known limitations
 
