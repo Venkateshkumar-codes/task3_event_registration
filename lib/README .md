@@ -33,15 +33,15 @@ validates the registration form and confirms the registration.
   successful registration
 - Full events show "Event full" and cannot be registered for
 
-## Screens and navigation
+## Screenshots
 
-```
-EventListScreen  --tap event-->  EventDetailsScreen  --Register now-->  RegistrationScreen
-       ^                                 ^                                      |
-       |                                 |                              valid submit
-       |                                 +------ system Back ----+              v
-       +-------------- Back to events ------------------ ConfirmationScreen (replaces the form)
-```
+| Event list | Event details |
+| --- | --- |
+| ![Event list](Screenshorts/List.png) | ![Event details](Screenshorts/Details.png) |
+
+| Confirmation |
+| --- |
+| ![Confirmation](Screenshorts/Confirmation.png) |
 
 - The selected `Event` is passed through the constructor of each screen.
 - `Navigator.push` opens the details and the form, so Back returns to the
