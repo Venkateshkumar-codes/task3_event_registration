@@ -37,11 +37,11 @@ validates the registration form and confirms the registration.
 
 | Event list | Event details |
 | --- | --- |
-| ![Event list](Screenshorts/List.png) | ![Event details](Screenshorts/Details.png) |
+| ![Event list]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\List.png") | ![Event details]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\Details.png") |
 
 | Confirmation |
 | --- |
-| ![Confirmation](Screenshorts/Confirmation.png) |
+| ![Confirmation]("D:\Acharya_Flutter_Cohort\task3_event_registration\Screenshorts\Confirmation.png") |
 
 - The selected `Event` is passed through the constructor of each screen.
 - `Navigator.push` opens the details and the form, so Back returns to the
@@ -105,19 +105,11 @@ flutter run
 
 To run in Chrome: `flutter run -d chrome`.
 
-## Screenshots
 
-| Event list | Event details |
-|---|---|
-| ![List](screenshots/list.png) | ![Details](screenshots/details.png) |
-
-| Form with errors | Confirmation |
-|---|---|
-| ![Form errors](screenshots/form-errors.png) | ![Confirmation](screenshots/confirmation.png) |
 
 ## Testing
 
-See [TESTING.md](TESTING.md) for the manual test cases and results.
+See [TESTING.md]("D:\Acharya_Flutter_Cohort\task3_event_registration\TESTING .md") for the manual test cases and results.
 
 ## Known limitations
 
